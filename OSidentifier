@@ -3,7 +3,7 @@
 # I have to configure a regex for IPv4, because the 
 # program can received any param and it runs anyways
 
-
+# Reference: https://ostechnix.com/identify-operating-system-ttl-ping/
 # Linux ttl <= 64
 # Windows ttl <= 128 and ttl >=65
 
